@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hello, I'm Guilherme Monteiro
 
-<!--
-**MonteiroCode1/MonteiroCode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack developer in training  
+🎓 Systems Analysis and Development student  
+🚀 Building real-world projects with web technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming (OOP)
+- Django
+- Backend development
+- Software architecture fundamentals
+
+---
+
+## 🛠️ Projects
+
+Here you can find my practical studies and projects in:
+
+- Web development
+- JavaScript applications
+- Python backend experiments
+- Full-stack learning projects
+
+---
+
+## 🎯 Goals
+
+- Become a professional full-stack developer  
+- Specialize in backend development  
+- Contribute to real-world projects  
+- Start my career in software development  
+
+---
+
+⭐ Always learning. Always building.
