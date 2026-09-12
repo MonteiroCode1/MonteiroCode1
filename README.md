@@ -2,7 +2,6 @@
   <h1>👋 Olá, eu sou Guilherme Monteiro!</h1>
   <p><b>Desenvolvedor Front-End em formação 🚀 | ADS Student 🎓</b></p>
 
-  <!-- Badges de Status / Redes -->
   <a href="https://github.com/MonteiroCode1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -18,45 +17,50 @@
 
 ## 👨‍💻 Sobre Mim
 
-> 🚀 *Construindo uma base sólida em desenvolvimento web para evoluir como um desenvolvedor completo.*
+> 🚀 *Construindo uma base sólida em desenvolvimento web para evoluir como desenvolvedor.*
 
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
-* 🧠 **Foco Atual:** Especialização em **Front-End** com HTML5, CSS3, JavaScript e Lógica de Programação.
-* 🎯 **Objetivo:** Atuar como desenvolvedor Front-End e expandir meus conhecimentos para o Back-End com **Python e Django**, buscando minha primeira oportunidade no mercado de tecnologia.
-* 📍 **Próximos passos na carreira:** TypeScript, React, Next.js, consumo de APIs RESTful e frameworks Back-End.
+* 🧠 **Foco Atual:** Desenvolvimento Front-End com **HTML5, CSS3, JavaScript e Lógica de Programação**.
+* 🐍 **Conhecimentos:** Python, Programação Orientada a Objetos, SQL e SQLite.
+* 🎯 **Objetivo:** Atuar profissionalmente como desenvolvedor e continuar expandindo meus conhecimentos em desenvolvimento web e Back-End.
+* 📍 **Próximos passos:** Aprofundamento em JavaScript, TypeScript, React, Next.js, APIs RESTful e desenvolvimento Back-End com Python.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🟢 Praticando e Dominando Atualmente
+### 🟢 Estudando e Praticando Atualmente
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,vscode,linux,ubuntu" alt="Minhas tecnologias atuais" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,vscode,linux,ubuntu" alt="Tecnologias e ferramentas" />
 </p>
 
-### 🟡 Próxima Parada (Roadmap de Estudos)
+### 🟡 Próximas Tecnologias
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,django,postgres" alt="Próximas tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,django" alt="Próximas tecnologias" />
 </p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias | Link / Repositório |
-| :--- | :--- | :---: | :---: |
-| **📚 Estudos HTML5 & CSS3** | Repositório completo de estudos com exercícios, desafios e projetos práticos (Parallax, Tabelas, etc). | <img src="https://skillicons.dev/icons?i=html,css,git" height="25" /> | [🔗 Acessar Repo](https://github.com/MonteiroCode1/html-css-estudos) \| [🌐 Web Site](https://monteirocode1.github.io/html-css-estudos/) |
-| **📜 Projeto Cordel (Parallax)** | Aplicação prática com efeitos de imagem fixa Parallax, layout fluido e tipografia temática. | <img src="https://skillicons.dev/icons?i=html,css" height="25" /> | [🌐 Ver Ao Vivo](https://monteirocode1.github.io/html-css-estudos/HTML-CSS-Modulo-3/project/html/) |
-| **💻 Clinica Médica em PHP** | Sistema em PHP com orientação a objetos, namespaces e gerenciamento via Composer. | <img src="https://skillicons.dev/icons?i=php,sqlite" height="25" /> | [🔗 Acessar Repo](https://github.com/MonteiroCode1/php-clinica) |
+| Projeto                          | Descrição                                                                                                                                                                  |                              Tecnologias                              |                                                            Link / Repositório                                                           |
+| :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| **📚 Estudos HTML5 & CSS3**      | Repositório de estudos com exercícios, desafios e projetos práticos desenvolvidos durante o aprendizado de HTML5 e CSS3.                                                   | <img src="https://skillicons.dev/icons?i=html,css,git" height="25" /> | [🔗 Acessar Repo](https://github.com/MonteiroCode1/html-css-estudos) | [🌐 Web Site](https://monteirocode1.github.io/html-css-estudos/) |
+| **📱 Projeto Android**           | Projeto desenvolvido durante os estudos de HTML5 e CSS3, aplicando conceitos de estrutura semântica, responsividade, imagens, fontes e diferentes técnicas de estilização. |   <img src="https://skillicons.dev/icons?i=html,css" height="25" />   |                  [🌐 Ver Projeto](https://monteirocode1.github.io/html-css-estudos/HTML-CSS-Modulo-2/projeto-android/)                  |
+| **📜 Projeto Cordel (Parallax)** | Aplicação prática com efeitos de imagem fixa Parallax, layout fluido e tipografia temática.                                                                                |   <img src="https://skillicons.dev/icons?i=html,css" height="25" />   |                    [🌐 Ver Ao Vivo](https://monteirocode1.github.io/html-css-estudos/HTML-CSS-Modulo-3/project/html/)                   |
 
 ---
 
 ## 🔥 Metas & Hábitos de Aprendizado
 
-- 📚 **Prática Diária:** Código e estudos constantes focados em resolução de problemas e boas práticas.
-- 🧩 **Lógica & Algoritmos:** Exercitando lógica de programação com JavaScript e Python.
-- 🎨 **UI/UX & Semântica:** Criando interfaces limpas, acessíveis e focadas na experiência do usuário.
-- 🚀 **Projetos Reais:** Transformando teoria em projetos práticos versionados no GitHub.
+* 📚 **Prática Constante:** Código e estudos focados em resolução de problemas e boas práticas.
+* 🧩 **Lógica & Algoritmos:** Exercitando lógica de programação com JavaScript e Python.
+* 🎨 **Front-End:** Desenvolvendo interfaces utilizando HTML5, CSS3 e JavaScript.
+* 🗄️ **Banco de Dados:** Praticando SQL e SQLite com Python.
+* 🔀 **Versionamento:** Utilizando Git e GitHub para organizar e versionar meus estudos e projetos.
+* 🚀 **Projetos Práticos:** Transformando teoria em projetos e exercícios para consolidar meus conhecimentos.
 
 ---
 
