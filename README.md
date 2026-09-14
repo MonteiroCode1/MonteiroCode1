@@ -21,7 +21,7 @@
 
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
 * 🧠 **Foco Atual:** Desenvolvimento Front-End com **HTML5, CSS3, JavaScript e Lógica de Programação**.
-* 🐍 **Conhecimentos:** Python, Programação Orientada a Objetos, SQL e SQLite.
+* 🐍 **Conhecimentos:** Python, Programação Orientada a Objetos, SQL.
 * 🎯 **Objetivo:** Atuar profissionalmente como desenvolvedor e continuar expandindo meus conhecimentos em desenvolvimento web e Back-End.
 * 📍 **Próximos passos:** Aprofundamento em JavaScript, TypeScript, React, Next.js, APIs RESTful e desenvolvimento Back-End com Python.
 
@@ -48,7 +48,7 @@
 | Projeto                          | Descrição                                                                                                                                                                  |                              Tecnologias                              |                                                            Link / Repositório                                                           |
 | :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | **📚 Estudos HTML5 & CSS3**      | Repositório de estudos com exercícios, desafios e projetos práticos desenvolvidos durante o aprendizado de HTML5 e CSS3.                                                   | <img src="https://skillicons.dev/icons?i=html,css,git" height="25" /> | [🔗 Acessar Repo](https://github.com/MonteiroCode1/html-css-estudos) | [🌐 Web Site](https://monteirocode1.github.io/html-css-estudos/) |
-| **📱 Projeto Android**           | Projeto desenvolvido durante os estudos de HTML5 e CSS3, aplicando conceitos de estrutura semântica, responsividade, imagens, fontes e diferentes técnicas de estilização. |   <img src="https://skillicons.dev/icons?i=html,css" height="25" />   |                  [🌐 Ver Projeto](https://monteirocode1.github.io/html-css-estudos/HTML-CSS-Modulo-2/projeto-android/)                  |
+| **📱 Projeto Android**           | Projeto desenvolvido durante os estudos de HTML5 e CSS3, aplicando conceitos de estrutura semântica, responsividade, imagens, fontes e diferentes técnicas de estilização. |   <img src="https://skillicons.dev/icons?i=html,css" height="25" />   |                  [🌐 Ver Ao Vivo](https://monteirocode1.github.io/html-css-estudos/HTML-CSS-Modulo-2/projeto-android/)                  |
 | **📜 Projeto Cordel (Parallax)** | Aplicação prática com efeitos de imagem fixa Parallax, layout fluido e tipografia temática.                                                                                |   <img src="https://skillicons.dev/icons?i=html,css" height="25" />   |                    [🌐 Ver Ao Vivo](https://monteirocode1.github.io/html-css-estudos/HTML-CSS-Modulo-3/project/html/)                   |
 
 ---
