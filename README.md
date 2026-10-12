@@ -67,11 +67,5 @@
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
-</div>
-
-<br />
-
-<div align="center">
   <p>⭐ <i>"Sempre aprendendo, construindo e evoluindo."</i> ⭐</p>
 </div>
